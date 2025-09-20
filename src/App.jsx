@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import Navbar from './sections/Navbar';
 
 function App() {
   return (
-    <div className='text-5xl'>App</div>
+    <div className='container mx-auto max-w-7xl'>
+      <Navbar></Navbar>
+    </div>
   )
 }
 
