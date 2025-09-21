@@ -7,6 +7,12 @@ function App() {
     <div className='container mx-auto max-w-7xl'>
       <Navbar></Navbar>
       <Hero></Hero>
+      <section className='min-h-screen'></section>
+      <section className='min-h-screen'></section>
+      <section className='min-h-screen'></section>
+      <section className='min-h-screen'></section>
+      <section className='min-h-screen'></section>
+      <section className='min-h-screen'></section>
     </div>
   )
 }
